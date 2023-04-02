@@ -1,0 +1,11 @@
+C:\Users\ary_b\source\repos\THAW5\THAW5\bin\Debug\THAW5.exe.config
+C:\Users\ary_b\source\repos\THAW5\THAW5\bin\Debug\THAW5.exe
+C:\Users\ary_b\source\repos\THAW5\THAW5\bin\Debug\THAW5.pdb
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.csproj.AssemblyReference.cache
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.Form1.resources
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.Properties.Resources.resources
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.csproj.GenerateResource.cache
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.csproj.CoreCompileInputs.cache
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.exe
+C:\Users\ary_b\source\repos\THAW5\THAW5\obj\Debug\THAW5.pdb
